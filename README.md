@@ -12,19 +12,13 @@ In order to use the code, please proceed as follows:
 
 2. Recover the .xml file of the wanted survey on Nesstar (e.g. http://nesstar.library.ubc.ca/webview/)
 
-"Statistics Canada metadata for Master Files (RDC)
-
-<Survey/Year/Cycle of you choice>​
-
-"Metadata"
-
-"Other Documentation"
-
-<survey IMDB>
-
-Click on the "download" button (floppy disk on the upper-right corner of the screen)
-
-Select "In xml format" Download
+  + "Statistics Canada metadata for Master Files (RDC)
+    + <Survey/Year/Cycle of you choice>
+      + "Metadata"
+        + "Other Documentation"
+          + <survey IMDB>
+            Click on the "download" button (floppy disk on the upper-right corner of the screen)
+            Select "In xml format" Download
 
 3. (Optional) Recover the .csv for the Public Use Microdata file (PUMF) of the corresponding survey (e.g. through ODESI)
 
