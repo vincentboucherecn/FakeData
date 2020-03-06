@@ -1,5 +1,7 @@
 # FakeData
 
+## Description of the files
+
 ## Create Fake datasets from Statistics Canada Master Files (RDC)
 
 Statistics Canada offers a large variety of datasets through its Research Data Center (RDC) program. However, since the analysis of the data has to be performed in one of its RDC, the development of codes is challenging. Indeed, for most of us, an Internet access is essential to the development of (moderately) complex codes.
@@ -8,7 +10,7 @@ Here, I provide a program that allows to generate fake data using Statistics Can
 
 In order to use the code, please proceed as follows:
 
-1. Download the Fakedata program (see links below)
+1. Download the Fakedata program
 
 2. Recover the .xml file of the wanted survey on Nesstar (e.g. http://nesstar.library.ubc.ca/webview/)
    + "Statistics Canada metadata for Master Files (RDC)"
