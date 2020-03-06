@@ -8,26 +8,25 @@ Here, I provide a program that allows to generate fake data using Statistics Can
 
 In order to use the code, please proceed as follows:
 
-Download the Fakedata program (see links below)
+1. Download the Fakedata program (see links below)
 
-Recover the .xml file of the wanted survey on Nesstar (e.g. http://nesstar.library.ubc.ca/webview/)
+2. Recover the .xml file of the wanted survey on Nesstar (e.g. http://nesstar.library.ubc.ca/webview/)
 
-"Statistics Canada metadata for Master Files (RDC)​
+"Statistics Canada metadata for Master Files (RDC)
 
 <Survey/Year/Cycle of you choice>​
 
-"Metadata"​
+"Metadata"
 
-"Other Documentation"​
+"Other Documentation"
 
-<survey IMDB>​
+<survey IMDB>
 
-Click on the "download" button (floppy disk on the upper-right corner of the screen)​
+Click on the "download" button (floppy disk on the upper-right corner of the screen)
 
 Select "In xml format" Download
 
-(Optional) Recover the .csv for the Public Use Microdata file (PUMF) of the corresponding survey (e.g. through ODESI)
+3. (Optional) Recover the .csv for the Public Use Microdata file (PUMF) of the corresponding survey (e.g. through ODESI)
 
-Run the Fakedata program. The code​ will  ask for the .xml and .csv (if PUMF is provided). It will produce a .csv file of fake data as well as a .do file (Stata script) which contains the labels. To use those files, simply import the .csv in Stata and run the .do file.
+4. Run the Fakedata program. The code will  ask for the .xml and .csv (if PUMF is provided). It will produce a .csv file of fake data as well as a .do file (Stata script) which contains the labels. To use those files, simply import the .csv in Stata and run the .do file.
 
-​
