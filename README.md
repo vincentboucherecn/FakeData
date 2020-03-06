@@ -17,10 +17,8 @@ In order to use the code, please proceed as follows:
       + "Metadata"
         + "Other Documentation"
           + <survey IMDB>
-          
-          1. Click on the "download" button (floppy disk on the upper-right corner of the screen)
-          
-          2. Select "In xml format" Download
+            * Click on the "download" button (floppy disk on the upper-right corner of the screen)
+            * Select "In xml format" Download
 
 3. (Optional) Recover the .csv for the Public Use Microdata file (PUMF) of the corresponding survey (e.g. through ODESI)
 
